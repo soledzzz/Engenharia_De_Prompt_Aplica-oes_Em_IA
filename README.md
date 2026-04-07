@@ -1,5 +1,6 @@
 # Engenharia_De_Prompt_Aplica-oes_Em_IA
 Atividades da Faculdade (Engenharia de Software)
+
 # Engenharia de Prompt e Aplicações em IA
 
 Este repositório reúne estudos, práticas e exemplos relacionados à **engenharia de prompt** e ao uso de **Inteligência Artificial** em diferentes contextos.  
@@ -22,6 +23,15 @@ Fornecer uma base de conhecimento e experimentação para quem deseja aprender, 
 ## 🤝 Contribuições
 Contribuições são bem-vindas!  
 Sinta-se à vontade para abrir issues, sugerir melhorias ou enviar pull requests.
+
+---
+
+## 🧠 Prompt Simples
+
+**Objetivo:** Demonstrar a criação de um prompt claro e eficiente  
+
+**Prompt:**  
+Explique o que é inteligência artificial de forma simples, como se estivesse falando com alguém que nunca teve contato com tecnologia.
 
 ---
 

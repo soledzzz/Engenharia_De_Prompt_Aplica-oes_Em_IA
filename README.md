@@ -26,6 +26,23 @@ Sinta-se à vontade para abrir issues, sugerir melhorias ou enviar pull requests
 
 ---
 
+## 🧠 Atividade: Estrutura de Prompt (4 Zonas)
+
+### 🔹 Prompt Original
+Crie um post sobre o calendário acadêmico de provas do UDF.
+
+### 🔹 Prompt Estruturado
+
+**Papel:** Você é um embaixador do UDF.  
+
+**Tarefa:** Crie um post sobre o calendário acadêmico de provas do UDF.  
+
+**Contexto:** O conteúdo é destinado a alunos ingressantes, que precisam entender melhor os períodos de avaliação e organização acadêmica.  
+
+**Formato:** Escreva um texto com no máximo 280 caracteres, utilizando um tom acolhedor, claro e motivador.
+
+---
+
 ## 🧠 Prompt Simples
 
 **Objetivo:** Demonstrar a criação de um prompt claro e eficiente  
